@@ -21,10 +21,10 @@ const ordenarArreglo = (arr = undefined) => {
 
   return console.info({
     arr,
-    asc: arr.map((el) => el).sort(), //Sort() metodo para ordernar de forma ascendente
+    asc: arr.map((el) => el).sort((a, b) => a - b), //Sort() metodo para ordernar de forma ascendente
     desc: arr
       .map((el) => el)
-      .sort()
+      .sort((a, b) => a - b)
       .reverse(),
   });
 };
