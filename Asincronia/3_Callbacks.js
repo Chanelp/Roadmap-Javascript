@@ -1,4 +1,5 @@
 //PRIMER MECANISMO PARA MANEJAR LA ASINCRONIA
+//Con los callbacks no se tiene un manejo adecuado de los errores.
 
 function cuadradoCallback(valor, callback){
     setTimeout(() => {
