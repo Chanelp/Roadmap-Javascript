@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../HolaMundoAngular/HolaMundo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Roadmap-Javascript"
+	}
+}
