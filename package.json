@@ -1,0 +1,20 @@
+{
+  "name": "roadmap-javascript",
+  "version": "1.0.0",
+  "description": "Aquí estará mi ruta de aprendizaje de Javascript, desde lo más básico hasta lo más avanzado que voy aprendiendo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chanelp/Roadmap-Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chanelp/Roadmap-Javascript/issues"
+  },
+  "homepage": "https://github.com/Chanelp/Roadmap-Javascript#readme"
+}
